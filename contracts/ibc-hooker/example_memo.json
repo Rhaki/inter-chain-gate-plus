@@ -1,0 +1,13 @@
+{
+    "memo": {
+        "wasm": {
+            "contract": "receiver_addr",
+            "msg": {
+                "received_request": {
+                    "msg": "Im15X21zZyI="
+                }
+            }
+        },
+        "ibc_callback": "cosmos2contract"
+    }
+}

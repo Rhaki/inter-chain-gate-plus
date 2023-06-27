@@ -1,0 +1,1 @@
+This repository cointains examples of contracts that integrate [gate-contract](https://github.com/Rhaki/inter-chain-gate-core)

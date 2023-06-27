@@ -1,0 +1,1 @@
+This section contains mock contracts used to test some scenario with **gate**
